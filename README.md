@@ -1,2 +1,3 @@
 # 4projeto_indi
-![Sem título](https://user-images.githubusercontent.com/117321352/227066682-b5501a76-e4ce-445d-892f-716470e2e6ed.png)
+![Entity Relationship Diagram](https://user-images.githubusercontent.com/117321352/227380896-45f720cc-0101-488e-9b6b-90aa925160ed.jpg)
+
